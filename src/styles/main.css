@@ -62,3 +62,8 @@ header .column span{
     left:2.1rem;
     background-color: #8c8c8c;
 }
+
+.piano-keys{
+    display:flex;
+    margin-top:40px;
+}
